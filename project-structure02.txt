@@ -1,0 +1,27 @@
+Need to install the following packages:
+tree-cli@0.6.7
+Ok to proceed? (y) 
+
+F:\DS\DSApp\dsapp
+├── backup.sql
+├── dist
+├── eslint.config.mjs
+├── nest-cli.json
+├── node_modules
+├── package-lock.json
+├── package.json
+├── project-structure.txt
+├── project-structure02.txt
+├── README.md
+├── src
+├── test
+├── tsconfig.build.json
+├── tsconfig.build.tsbuildinfo
+├── tsconfig.json
+└── tsconfig.tsbuildinfo
+
+directory: 4 file: 12
+
+
+
+[2K[1G
